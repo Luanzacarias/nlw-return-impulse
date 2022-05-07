@@ -23,7 +23,7 @@ app.use(routes);
 
 
 // vai ouvir a porta 3333
-app.listen(3333, () => {
+app.listen(process.env.PORT || 3333, () => {
     console.log('HTTP server running!')
 })
 
