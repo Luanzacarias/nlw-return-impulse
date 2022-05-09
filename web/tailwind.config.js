@@ -10,6 +10,9 @@ module.exports = {
       },
       borderRadius: {
         md: '4px'
+      },
+      fontFamily: {
+        'inter': ['Inter', 'sans-serif']
       }
     },
   },

@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-    @apply bg-[#efefef]
+    @apply bg-[#efefef] font-inter font-medium
 }
