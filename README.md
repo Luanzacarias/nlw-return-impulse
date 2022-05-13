@@ -38,7 +38,7 @@ $ npm install
 ```
 - Na pasta `web` crie um `.env.local` com a URL do seu database
 ```bash
-VITE_API_URL = ""
+VITE_API_URL=""
 ```
 - Na pasta `server` crie um `.env` com o caminho do `dev.db` do seu database de desenvolvimento na pasta `prisma`.
 ```bash
