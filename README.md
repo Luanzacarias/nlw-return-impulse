@@ -25,7 +25,8 @@ Projeto desenvolvido em conjunto com a [Rocketseat](https://www.rocketseat.com.b
 ## 🛠️ Feactures
 - É possível anexar uma screenshot ao feedback.
 - Todo o sistema é funcional apenas com o teclado.
-- O tema será alterado Light/Dark de acordo com o tema do sistema do usuário.
+> ### ➕ Added  
+> - O tema será alterado Light/Dark de acordo com o tema do sistema do usuário.
 
 ## 🔮 Layout
 Acesse o layout do projeto através do [Figma](https://www.figma.com/community/file/1102912516166573468).
