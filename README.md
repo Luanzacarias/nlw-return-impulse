@@ -42,9 +42,7 @@ VITE_API_URL = ""
 ```
 - Na pasta `server` crie um `.env` com o caminho do `dev.db` do seu database de desenvolvimento na pasta `prisma`.
 ```bash
-DATABASE_URL=""
+DATABASE_URL="file:./dev.db"
 ```
-    Ex: "file:./dev.db"
-
 ## 💭 Extra
 - Acesse o projeto no ar por [aqui](https://nlw-return-impulse-sigma.vercel.app/).
